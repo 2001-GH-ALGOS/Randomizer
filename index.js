@@ -1,3 +1,31 @@
+//example names object for current attendees
+//const names = {
+//   0: 'Malinda',
+//   1: 'Sonia',
+//   2: 'Sooin',
+//   3: 'Hilary',
+//   4: 'Jasmin',
+//   5: 'Esther',
+//   6: 'Isabel',
+//   7: 'Stephanie'
+//   8: 'Carrie',
+//   9: 'Sasha',
+//   10: 'Beth',
+//   11: 'Shay',
+//   12: 'Nikki',
+//   13: 'Yumiko',
+//   14: 'Karen',
+//   15: 'Ayse',
+//   16: 'Grace',
+//   17: 'Carmen',
+//   18: 'Laura',
+//   19: 'Danielle',
+//   20: 'Nuria'
+// }
+
+
+
+
 function randomizer(names){
   const keys = Object.keys(names)
   //shuffles array
